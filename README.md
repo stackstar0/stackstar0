@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Computer Science & GIS student who builds practical, real-world solutions<br>💻 Full Stack Developer focused on scalable and clean web applications<br>🚀 Currently working on bots, automation tools, and e-commerce platforms<br>📊 Strong interest in Data, Trading Systems, and Smart Decision Models<br>🛠️ Skilled in JavaScript, Node.js, MongoDB, and modern web technologies<br>🌐 Passionate about turning ideas into deployable products<br>📈 Always learning, building, and improving — one project at a time<br>🤝 Open to collaborations, freelance work, and innovative projects<br>
+💻 Full Stack Developer focused on scalable and clean web applications<br>🚀 Currently working on bots, automation tools, and e-commerce platforms<br>📊 Strong interest in Data, Trading Systems, and Smart Decision Models<br>🛠️ Skilled in JavaScript, Node.js, MongoDB, and modern web technologies<br>🌐 Passionate about turning ideas into deployable products<br>📈 Always learning, building, and improving — one project at a time<br>🤝 Open to collaborations, freelance work, and innovative projects<br>
 
 
 ## 🌐 Socials:
